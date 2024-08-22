@@ -50,4 +50,4 @@ _The Study by Manikant Singh_  is a sophisticated educational platform that comb
 -   **API Development:**  Django REST Framework for efficient and structured API endpoints.
 
 This project highlights my expertise in backend development and API integration, showcasing my ability to build and manage the infrastructure that powers dynamic, high-performance applications.
-> You can explore the live project at thestudyias.net
+> You can explore the live project at https://thestudyias.net
