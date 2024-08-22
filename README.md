@@ -51,4 +51,3 @@ _The Study by Manikant Singh_  is a sophisticated educational platform that comb
 
 This project highlights my expertise in backend development and API integration, showcasing my ability to build and manage the infrastructure that powers dynamic, high-performance applications.
 > You can explore the live project at thestudyias.net
-> You can also check their android app mentioned on the website
