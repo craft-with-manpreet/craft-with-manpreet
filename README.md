@@ -1,55 +1,98 @@
+# MANPREET SINGH
+**Senior Backend Developer | Python | Django | REST APIs | Microservices**
 
-## Hi there 👋 I am Manpreet Singh
+📍 Faridabad, India  
+📧 dev.manpreet.io@gmail.com  
 
-A skilled software developer with a strong focus on Python and Django, I specialize in building robust and scalable web applications. My expertise extends to front-end development with hands-on experience in React.js, allowing me to create dynamic and responsive user interfaces. I am proficient in HTML, CSS, and Tailwind CSS, ensuring visually appealing and user-friendly designs. My comprehensive skill set enables me to deliver end-to-end solutions, from back-end logic to polished front-end experiences.
-## My Portfolio
-https://dev-manpreet.web.app
+---
 
-## Showcasing My Projects: Innovative Solutions & Creative Excellence
+## PROFESSIONAL SUMMARY
 
-### 1. MyBizz ERP
-I played a pivotal role in designing and developing the backend architecture for an innovative and powerful ERP solution that is transforming business workflows through intelligence, automation, and cutting-edge technology. This ERP system redefines efficiency by integrating advanced features that streamline operations and drive productivity.
+Senior Backend Developer with **5+ years of experience** designing and building **secure, scalable, high-performance backend systems** using **Python, Django, and Django REST Framework**. Strong expertise in **REST APIs, microservices, authentication, encryption, and system optimization**. Proven leadership experience mentoring teams and delivering production-grade platforms across **Fintech, EdTech, ERP, and Marketplace domains**.
 
-**Key Contributions:**
+---
 
--   **Backend Architecture:**  Designed and implemented the entire backend infrastructure from scratch. Leveraged my expertise in backend development to create a scalable, robust, and secure system that supports the ERP's complex functionalities and extensive data handling requirements.
-    
--   **Data Security:**  Incorporated advanced data encryption techniques, including AES (Advanced Encryption Standard) and SHA-256 (Secure Hash Algorithm 256-bit), to ensure the highest level of data protection. These techniques safeguard sensitive information and maintain data integrity across the system.
-    
--   **Automation and Integration:**  Developed features that leverage advanced automation to optimize workflows and reduce manual intervention. This includes automated process management, reporting, and decision-making tools that enhance overall operational efficiency.
-    
--   **Scalability and Performance:**  Engineered the backend to handle high volumes of data and user interactions, ensuring the system remains performant and reliable as business needs evolve. Implemented best practices in database design and API development to support seamless integration with other system components.
-    
+## TECHNICAL SKILLS
 
-**Technologies Utilized:**
+**Backend:** Python, Django, Django REST Framework  
+**Architecture:** REST APIs, Microservices, Multi-Tenancy  
+**Security:** JWT, Encryption, Secure APIs, Digital Signatures  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** GitHub, Postman, JIRA  
+**Web:** HTML, CSS, JavaScript  
 
--   **Backend Framework:**  Utilized Django for creating a secure and scalable backend system.
--   **Encryption:**  Applied AES and SHA-256 for robust data encryption and security.
--   **Database Management:**  Designed and optimized database schemas to support efficient data retrieval and storage.
+---
 
-This project underscores my ability to deliver a comprehensive backend solution that supports complex ERP functionalities while ensuring data security and system performance.
+## PROFESSIONAL EXPERIENCE
 
-> You can explore the live project at https://mybizzerp.com
+### Assistant Manager
+**MyBizz ERP global enterprise solutions, Hyderabad**  
+*Mar 2024 – Present*
 
-#
+- Led and mentored a cross-functional backend team, overseeing task allocation, technical guidance, performance tracking, and team productivity.
+- Managed end-to-end project execution, including requirement analysis, sprint planning, development coordination, and timely delivery of backend systems.
+- Actively contributed to backend development, designing secure, scalable APIs and reviewing code to maintain high engineering standards.
+- Conducted technical research and solution evaluation, identifying optimal tools, architectures, and security approaches to improve system performance and reliability.
 
-### 2. The Study by Manikant Singh
-_The Study by Manikant Singh_  is a sophisticated educational platform that combines video content with a powerful backend system. I was responsible for developing the backend infrastructure, creating a robust API using Django to support the app's dynamic features and ensure seamless operation.
+---
 
-**Key Contributions:**
+### Senior Backend Developer / Backend Developer  
+**Alcor Solutions India Pvt. Ltd, Noida**  
+*Aug 2023 – Mar 2024*
 
--   **Backend Development:**  Designed and implemented the backend using the Django framework, creating a scalable and secure API. This backend supports various functionalities, including user authentication, video streaming, and content management, ensuring smooth and reliable interactions between the app's frontend and its server.
-    
--   **API Integration:**  Developed and integrated APIs to facilitate efficient data transfer and management. The API endpoints handle requests from the Android app, manage video content delivery, and support administrative functions.
-    
--   **Application Management Dashboard:**  Built a comprehensive management dashboard with HTML, CSS, and JavaScript, integrated with Django. This dashboard provides administrators with tools to manage content, track user engagement, and oversee system performance, streamlining the overall management process.
-    
+- Designed and optimized scalable backend systems, improving performance by ~30%
+- Built and maintained secure REST APIs with authentication and authorization
+- Translated business requirements into robust backend architecture
+- Collaborated with frontend teams for seamless integrations
 
-**Technologies Utilized:**
+---
 
--   **Backend Framework:**  Django for creating a secure and scalable API, managing server-side logic and data handling.
--   **Frontend Dashboard:**  HTML, CSS, and JavaScript for developing an intuitive and functional management interface.
--   **API Development:**  Django REST Framework for efficient and structured API endpoints.
+### Senior Backend Developer – Backend Engineering  
+**Drag and Drop India Pvt. Ltd., Bangalore**  
+*Dec 2021 – Aug 2023*
 
-This project highlights my expertise in backend development and API integration, showcasing my ability to build and manage the infrastructure that powers dynamic, high-performance applications.
-> You can explore the live project at https://thestudyias.net
+- Led secure and optimized data integration across platforms with near-100% efficiency
+- Implemented JWT-based authentication and encryption, maintaining 600 ms – 2 s API response times
+- Mentored backend engineers and conducted daily code reviews
+- Improved overall test coverage to 62%+
+
+---
+
+### Senior Backend Developer  
+**Alpha Cyber Solution, Faridabad**  
+*Jan 2021 – Dec 2021*
+
+- Progressed from Intern to Senior Backend Developer
+- Led a team of 5 developers, delivering 10+ backend-driven projects
+- Owned API design, database integration, and deployment readiness
+- Established coding standards and development workflows
+
+---
+
+## KEY PROJECTS
+
+**MyDrive**  
+Secure media storage platform with file sharing, encryption, and access control
+
+**MyBizz ERP**  
+Fintech ERP platform with GST filing, auto-accounting, workflows, and digital signatures
+
+**Online Learning Platform**  
+Android backend with course management, student enrollment, and payment gateway integration
+
+**The StudyIAS**  
+EdTech platform featuring personalized study plans, quizzes, analytics, and discussion forums
+
+**Sathvar**  
+Service marketplace platform with real-time chat and appointment scheduling
+
+**Auto Doc Signer**  
+Enterprise-grade digital signature automation using USB Tokens and PFX certificates
+
+---
+
+## EDUCATION
+
+**B.Tech – Computer Science & Engineering**  
+YMCA University, Faridabad
+
