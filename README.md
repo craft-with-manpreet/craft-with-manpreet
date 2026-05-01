@@ -2,7 +2,7 @@
 **Senior Backend Developer | Python | Django | REST APIs | Microservices**
 
 📍 Faridabad, India  
-📧 manpret343@gmail.com | dev.manpreet.io@gmail.com  
+📧 manpret343@gmail.com
 
 ---
 
