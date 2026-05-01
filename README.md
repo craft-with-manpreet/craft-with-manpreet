@@ -2,7 +2,7 @@
 **Senior Backend Developer | Python | Django | REST APIs | Microservices**
 
 📍 Faridabad, India  
-📧 dev.manpreet.io@gmail.com  
+📧 manpret343@gmail.com | dev.manpreet.io@gmail.com  
 
 ---
 
@@ -25,7 +25,7 @@ Senior Backend Developer with **5+ years of experience** designing and building 
 
 ## PROFESSIONAL EXPERIENCE
 
-### Assistant Manager
+### Technical Assistant Manager
 **MyBizz ERP global enterprise solutions, Hyderabad**  
 *Mar 2024 – Present*
 
