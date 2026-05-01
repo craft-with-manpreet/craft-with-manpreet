@@ -14,7 +14,7 @@ Senior Backend Developer with **5+ years of experience** designing and building 
 
 ## TECHNICAL SKILLS
 
-**Backend:** Python, Django, Django REST Framework  
+**Backend:** Python, Django, Django REST Framework, FastAPI
 **Architecture:** REST APIs, Microservices, Multi-Tenancy  
 **Security:** JWT, Encryption, Secure APIs, Digital Signatures  
 **Databases:** PostgreSQL, MySQL  
