@@ -3,6 +3,7 @@
 
 📍 Faridabad, India  
 📧 manpret343@gmail.com
+🌐 https://dev-manpreet.web.app
 
 ---
 
